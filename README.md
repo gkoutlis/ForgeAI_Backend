@@ -1,8 +1,12 @@
 # 🚀 ForgeAI - The Brain Behind the Posts! 🧠
 
-Hey there! 👋 Welcome to the secret sauce of **ForgeAI**, your go-to AI social media post generator! This little server is the clever brain working behind the scenes, connecting our snazzy React app to the super-smart OpenAI `gpt-3.5-turbo` model.
+This Node.js/Express server was originally created with **strong help from an AI assistant (Gemini)**. I use this repo to:
 
-Think of it as the super-efficient middle-man, taking your brilliant ideas, whispering them to the AI, and bringing back perfectly crafted social media magic! ✨
+- Understand how a minimal Express server works.
+- Learn how to safely call the OpenAI API.
+- Experiment with new routes and prompt strategies that I implement myself.
+
+Over time, I'm refactoring and extending the code on my own, so this project reflects my real learning journey, not just AI-generated boilerplate.
 
 ## What's Inside this Brain? 🛠️
 
